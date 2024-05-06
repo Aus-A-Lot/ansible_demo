@@ -7,4 +7,4 @@
         upgrade: yes
         update_cache: yes
       vars:
-        ansible_sudo_pass: "YourSudoPasswordHere"
+        ansible_sudo_pass: "1loVefrog5"
